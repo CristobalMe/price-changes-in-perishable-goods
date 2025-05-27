@@ -13,3 +13,4 @@ dependencies:
   - pip:
       - giotto-tda
       - imblearn
+      - nbformat
